@@ -89,10 +89,3 @@ O script realiza as seguintes etapas:
 - Lucas Serrano Rocco (RM 555170)
 - Yasmin Gonçalves Coelho (RM 559147)
 
----
-
-## 🧾 Licença
-
-Este projeto é apenas para fins educacionais.
-# gs-data-science
-# gs-data-science
