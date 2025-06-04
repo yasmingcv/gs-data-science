@@ -31,7 +31,7 @@ Este projeto faz parte da disciplina de **Data Science** do curso de **Engenhari
 
 1. Clone o repositório:
 
-       git clone <URL-do-repositório>
+       git clone https://github.com/yasmingcv/gs-data-science
 
 2. Navegue até a pasta do projeto:
 
